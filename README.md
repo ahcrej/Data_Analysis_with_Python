@@ -4,7 +4,7 @@ This is University of Helsinki’s free massive open online course (MOOC) on [Da
 ## Course Contents 
 #### Part 1: Python
 #### Part 2: More Python and NumPy
-#### Part 3: More NumPy
+#### Part 3: More NumPy, Matplotlib, images, Pandas
 #### Part 4: More Pandas
 #### Part 5: Still More Pandas and Machine Learning
 #### Part 6: Machine Learning Types
