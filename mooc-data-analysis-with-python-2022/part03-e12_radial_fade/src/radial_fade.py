@@ -58,11 +58,11 @@ def test(a):
 def main():
     image = plt.imread('src/painting.png')
     test_arr = test(image)
-    # fig, ax = plt.subplots(3, 1)
-    # ax[0].imshow(image)
-    # ax[1].imshow(radial_mask(image))
-    # ax[2].imshow(radial_fade(image))
-    # plt.show()
+    fig, ax = plt.subplots(3, 1)
+    ax[0].imshow(image)
+    ax[1].imshow(radial_mask(image))
+    ax[2].imshow(radial_fade(image))
+    plt.show()
 
 
 if __name__ == "__main__":
